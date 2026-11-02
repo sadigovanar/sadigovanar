@@ -30,4 +30,4 @@ CDE (Certified DevSecOps Expert) · CDP (Certified DevSecOps Professional) · CK
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/anar-sadigov) · [YouTube](https://youtube.com/@devsecops-course) · sadigovanar15011982@gmail.com
+[sadigov.net](https://sadigov.net) · [LinkedIn](https://www.linkedin.com/in/anar-sadigov) · [YouTube](https://youtube.com/@devsecops-course) · sadigovanar15011982@gmail.com
